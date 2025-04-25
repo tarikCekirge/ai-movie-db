@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+.sendResultz
+.resultz.json
+sendResultz.js
+/src/__tests__
+resultz.json
+_gitignore
